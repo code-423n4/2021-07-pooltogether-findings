@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether micro contest #1",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "setYieldSource leads to temporary wrong results",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2021-07-pooltogether-findings/issues/4"
+}
