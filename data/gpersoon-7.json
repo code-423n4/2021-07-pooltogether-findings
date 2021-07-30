@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether micro contest #1",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "_requireYieldSource not always called",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-07-pooltogether-findings/issues/7"
+}
