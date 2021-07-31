@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether micro contest #1",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "No input validation for  while setting up value for immutable state variables",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-07-pooltogether-findings/issues/15"
+}
