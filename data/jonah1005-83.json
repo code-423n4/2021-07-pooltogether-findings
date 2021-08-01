@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether micro contest #1",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "G",
+  "title": "redeemToken do not provide error message on insufficient imbalance",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2021-07-pooltogether-findings/issues/83"
+}
